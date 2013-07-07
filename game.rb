@@ -1,4 +1,5 @@
 # Shitty Ruby Game
+## We definitely need more comments.
 
 title = '**Shitty Ruby Game**'
 lineWidth = 80
