@@ -1,3 +1,5 @@
+# Shitty Ruby Game
+
 title = '**Shitty Ruby Game**'
 lineWidth = 80
 puts
